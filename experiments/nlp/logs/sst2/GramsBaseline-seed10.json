@@ -1,0 +1,26 @@
+[
+    {
+        "epoch": 1,
+        "train_loss": 0.2738186397790903,
+        "eval_loss": 0.22994192368393646,
+        "aggregated_metric": {
+            "Acc": 0.9197247706422018
+        }
+    },
+    {
+        "epoch": 2,
+        "train_loss": 0.13926377757578334,
+        "eval_loss": 0.2552335072274602,
+        "aggregated_metric": {
+            "Acc": 0.9208715596330275
+        }
+    },
+    {
+        "epoch": 3,
+        "train_loss": 0.1066470066435231,
+        "eval_loss": 0.2742931598780352,
+        "aggregated_metric": {
+            "Acc": 0.9220183486238532
+        }
+    }
+]

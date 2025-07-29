@@ -1,0 +1,50 @@
+[
+    {
+        "epoch": 1,
+        "train_loss": 0.5709304841084571,
+        "eval_loss": 0.44853195473772844,
+        "aggregated_metric": {
+            "Accuracy-Avg(m/mm)": 0.8247002054277528
+        },
+        "raw_metrics": {
+            "matched": {
+                "accuracy": 0.8179317371370352
+            },
+            "mismatched": {
+                "accuracy": 0.8314686737184703
+            }
+        }
+    },
+    {
+        "epoch": 2,
+        "train_loss": 0.3678494486258553,
+        "eval_loss": 0.40889414042055905,
+        "aggregated_metric": {
+            "Accuracy-Avg(m/mm)": 0.8436886975772706
+        },
+        "raw_metrics": {
+            "matched": {
+                "accuracy": 0.840855832908813
+            },
+            "mismatched": {
+                "accuracy": 0.8465215622457283
+            }
+        }
+    },
+    {
+        "epoch": 3,
+        "train_loss": 0.20467166779322402,
+        "eval_loss": 0.47245487392094276,
+        "aggregated_metric": {
+            "Accuracy-Avg(m/mm)": 0.843740785077224
+        },
+        "raw_metrics": {
+            "matched": {
+                "accuracy": 0.8422822210901681
+            },
+            "mismatched": {
+                "accuracy": 0.8451993490642798
+            }
+        }
+    }
+]

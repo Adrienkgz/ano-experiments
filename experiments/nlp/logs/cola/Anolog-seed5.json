@@ -1,0 +1,57 @@
+[
+    {
+        "epoch": 1,
+        "train_loss": 0.5155532831630433,
+        "eval_loss": 0.4181630373115393,
+        "aggregated_metric": {
+            "MCC": 0.5332198659134496
+        },
+        "raw_metrics": {
+            "matthews_correlation": 0.5332198659134496
+        }
+    },
+    {
+        "epoch": 2,
+        "train_loss": 0.305759416544818,
+        "eval_loss": 0.49374024425691293,
+        "aggregated_metric": {
+            "MCC": 0.523335395658839
+        },
+        "raw_metrics": {
+            "matthews_correlation": 0.523335395658839
+        }
+    },
+    {
+        "epoch": 3,
+        "train_loss": 0.14340791110319223,
+        "eval_loss": 0.5744466066131885,
+        "aggregated_metric": {
+            "MCC": 0.5319354120310512
+        },
+        "raw_metrics": {
+            "matthews_correlation": 0.5319354120310512
+        }
+    },
+    {
+        "epoch": 4,
+        "train_loss": 0.06318889468657372,
+        "eval_loss": 0.6646230949708622,
+        "aggregated_metric": {
+            "MCC": 0.5305886020670072
+        },
+        "raw_metrics": {
+            "matthews_correlation": 0.5305886020670072
+        }
+    },
+    {
+        "epoch": 5,
+        "train_loss": 0.033613717705140975,
+        "eval_loss": 0.7371330560110902,
+        "aggregated_metric": {
+            "MCC": 0.53798066544186
+        },
+        "raw_metrics": {
+            "matthews_correlation": 0.53798066544186
+        }
+    }
+]

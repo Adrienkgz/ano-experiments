@@ -1,0 +1,62 @@
+[
+    {
+        "epoch": 1,
+        "train_loss": 2.3298019388692857,
+        "eval_loss": 0.5698218590418498,
+        "aggregated_metric": {
+            "Pearson+Spearman": 0.8736270587577154
+        },
+        "raw_metrics": {
+            "pearson": 0.8740253448486328,
+            "spearmanr": 0.873228772666798
+        }
+    },
+    {
+        "epoch": 2,
+        "train_loss": 0.4607966312181848,
+        "eval_loss": 0.4941674415270487,
+        "aggregated_metric": {
+            "Pearson+Spearman": 0.8831360615783297
+        },
+        "raw_metrics": {
+            "pearson": 0.8845361471176147,
+            "spearmanr": 0.8817359760390447
+        }
+    },
+    {
+        "epoch": 3,
+        "train_loss": 0.28149561231230463,
+        "eval_loss": 0.5090288664499919,
+        "aggregated_metric": {
+            "Pearson+Spearman": 0.8857513770522434
+        },
+        "raw_metrics": {
+            "pearson": 0.8876456022262573,
+            "spearmanr": 0.8838571518782294
+        }
+    },
+    {
+        "epoch": 4,
+        "train_loss": 0.1899836769291558,
+        "eval_loss": 0.505402110894521,
+        "aggregated_metric": {
+            "Pearson+Spearman": 0.8867959039466251
+        },
+        "raw_metrics": {
+            "pearson": 0.8884273767471313,
+            "spearmanr": 0.8851644311461189
+        }
+    },
+    {
+        "epoch": 5,
+        "train_loss": 0.14730875943925903,
+        "eval_loss": 0.49608148670196534,
+        "aggregated_metric": {
+            "Pearson+Spearman": 0.8855868653962422
+        },
+        "raw_metrics": {
+            "pearson": 0.8877257108688354,
+            "spearmanr": 0.8834480199236491
+        }
+    }
+]
