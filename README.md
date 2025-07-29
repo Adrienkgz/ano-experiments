@@ -4,7 +4,7 @@
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16422081.svg)](https://doi.org/10.5281/zenodo.16422081)
 [![PyPI](https://img.shields.io/pypi/v/ano-optimizer.svg)](https://pypi.org/project/ano-optimizer/)
-![Stars](https://img.shields.io/github/stars/Adrienkgz/ano-experiments?style=social)
+[![Stars](https://img.shields.io/github/stars/Adrienkgz/ano-experiments?style=social)](https://github.com/Adrienkgz/ano-experiments)
 
 **Official repository** for the paper:  
 👉 **[ANO: Faster is Better in Noisy Landscape](https://zenodo.org/records/16422081)**
