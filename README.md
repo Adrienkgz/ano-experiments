@@ -33,7 +33,7 @@ The **Ano optimiser is available as a standalone Python library** via PyPI:
 pip install ano-optimizer
 ```
 
-👉 GitHub repo of the library: [github.com/username/ano-lib](https://github.com/Adrienkgz/ano-optimizer)
+👉 GitHub repo of the library: [github.com/Adrienkgz/ano-optimizer](https://github.com/Adrienkgz/ano-optimizer)
 
 It supports direct usage with **PyTorch** and **Tensorflow**.  
 Documentation and examples are available in the [library repo](https://github.com/Adrienkgz/ano-optimizer).
@@ -63,8 +63,8 @@ Documentation and examples are available in the [library repo](https://github.co
 
 ```bash
 # Clone the repository
-git clone https://github.com/username/ano-optimizer.git
-cd ano-optimizer
+git clone https://github.com/Adrienkgz/ano-experiments.git
+cd ano-experiments
 
 # Install dependencies
 pip install requirements.txt
@@ -124,14 +124,6 @@ The current version of the paper is a **preprint** and may evolve based on feedb
 ## 📬 Contact
 
 For questions or collaborations, feel free to open an issue or reach out via email (see paper).
-
----
-
-
-## 🤝 arXiv endorsement
-
-We are in the process of submitting this work to arXiv.  
-If you are an endorsed author and appreciate this work, **endorsements are warmly welcome** to help disseminate the research. Thank you 🙏
 
 ---
 
